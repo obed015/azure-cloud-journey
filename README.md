@@ -7,8 +7,6 @@ This repository tracks every major concept, lab, and real-world project I build 
 
 ## ✅ Week 1: Azure VMs + Load Balancer + Backup
 
-Folder: [`Week-1-VMs-HA-Setup`](./Week-1-VMs-HA-Setup)
-
 ## What I built:
 - Deployed Ubuntu & Windows VMs in different AZs
 - Connected to Load Balancer with public IP & health probe
@@ -16,8 +14,12 @@ Folder: [`Week-1-VMs-HA-Setup`](./Week-1-VMs-HA-Setup)
 - Mounted data disks, created file shares
 - Troubleshot common failures using Serial Console, NSG, DNS, disk recovery
 
+- 
 
-- Architecture Diagram & Lab Notes included inside folder.
+## This repo shows:
+- Real lab implementations, not just theory
+- Quizzes, troubleshooting drills.
+
 
 
 Stay tuned for new folders every week.
