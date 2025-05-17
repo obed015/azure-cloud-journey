@@ -1,11 +1,11 @@
-# Azure Cloud Engineer Roadmap – Hands-On Journey 🚀
+# Azure Cloud Engineer Roadmap – Hands-On Journey 
 
 Welcome to my 8-month hands-on learning journey toward becoming an Azure Cloud Engineer.  
-This repository tracks every major concept, lab, and real-world project I build along the way.
+This repository is filled with daily hands-on tasks, real-world labs, and structured learning I build along the way.
 
 
 
-## ✅ Week 1: Azure VMs + Load Balancer + Backup
+## Week 1: Azure VMs + Load Balancer + Backup
 
 ## What I built:
 - Deployed Ubuntu & Windows VMs in different AZs
